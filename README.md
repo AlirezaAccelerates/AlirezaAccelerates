@@ -74,6 +74,6 @@ var Alireza = { // I am a variable rather than a constant.
 
 <div align="center">
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AlirezaRafiei9&theme=dark"></img>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AlirezaRafiei9&theme=dark" width="700"></img>
 
 </div>
