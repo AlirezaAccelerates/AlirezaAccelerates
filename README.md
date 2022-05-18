@@ -41,7 +41,7 @@ var Alireza = { // I am a variable rather than a constant.
     pronouns: "he" | "him",
     motto: "The Programmers of Tomorrow are the Wizards of the Future.",
     blogUrl: "",
-    code: ["Python", "MATLAB", "C++", "Python"],
+    code: ["Python", "MATLAB", "C++", "C"],
     askMeAbout: ["ML", "Tech", "Digital Health"],
     technologies: {
         DL: [],
