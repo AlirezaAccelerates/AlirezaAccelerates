@@ -32,9 +32,10 @@
  <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11318161" height="30" width="40" /></a>
 <div align="center">
 </div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-A little more about me...<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif">
+</div>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+</div>
+A little more about me...
 
 
 ```javascript
@@ -53,10 +54,11 @@ var Alireza = { // I am a variable rather than a constant.
 ```
 
 <div align="center">
-
+<img align="center" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" />
 </div>
 
-## 📊 GitHub Stats... <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+
+## 📊 GitHub Stats... 
 
 <img align="left" src="https://img.shields.io/github/followers/AlirezaRafiei9?style=social"></img>
 <img align="left" src="https://img.shields.io/github/stars/AlirezaRafiei9?style=social"></img>
