@@ -58,18 +58,17 @@ var Alireza = { // I am a variable rather than a constant.
 </div>
 
 
-## 📊 GitHub Stats... 
+## 📊 GitHub Stats...
 
-<img align="left" src="https://img.shields.io/github/followers/AlirezaRafiei9?style=social"></img>
-<img align="left" src="https://img.shields.io/github/stars/AlirezaRafiei9?style=social"></img>
-<img align="right" src="https://badges.pufler.dev/repos/AlirezaRafiei9"></img>
-<br/>
+![Followers](https://img.shields.io/github/followers/AlirezaRafiei9?style=social)
+![Stars](https://img.shields.io/github/stars/AlirezaRafiei9?style=social)
+![Repos](https://badges.pufler.dev/repos/AlirezaRafiei9)
 
 <div align="center">
 
 ![Github Metrics Classic](https://metrics.lecoq.io/AlirezaRafiei9?template=classic)
 
-<!--![Github Metrics Terminal](https://metrics.lecoq.io/AlirezaRafiei9?template=terminal)-->
+</div>
 
 </div>
 
