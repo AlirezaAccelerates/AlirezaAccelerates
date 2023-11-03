@@ -11,11 +11,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop AI solutions.\
-🎓 &nbsp;I'm currently studying ... at the ....\
+🎓 &nbsp;I'm currently studying Computer Science at Emory University.\
 🌱 &nbsp;I'm on track for learning more about AI and Robotics.\
 ✍️ &nbsp;In my free time, I pursue learning, reading, and gaming as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at alirezarafieieng@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https:///resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1h_me8FLUN8yViMxF39La9j_ws9XxIL4S/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 <h3 align="left">Connect with me:</h3>
@@ -43,7 +43,7 @@ var Alireza = { // I am a variable rather than a constant.
     pronouns: "he" | "him",
     motto: "The Programmers of Tomorrow are the Wizards of the Future.",
     blogUrl: "",
-    code: ["Python", "MATLAB", "C++", "C"],
+    code: ["Python", "MATLAB", "R", "C++", "C"],
     askMeAbout: ["ML", "Tech", "Digital Health"],
     technologies: {
         DL: [],
