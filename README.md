@@ -15,7 +15,7 @@
 🌱 &nbsp;I'm on track for learning more about AI.\
 ✍️ &nbsp;In my free time, I pursue reading, gaming, and playing soccer as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at alirezarafieieng@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [website]([https://alirezaaccelerates.github.io/]) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [website](https://alirezaaccelerates.github.io/) for more details about me.
 
 
 <h3 align="left">Connect with me:</h3>
