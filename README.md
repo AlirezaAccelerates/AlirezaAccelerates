@@ -60,7 +60,3 @@ var alireza = { // I am a variable rather than a constant.
 
 
 
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AlirezaRafiei9&theme=dark" width="700"></img>
-
-</div>
