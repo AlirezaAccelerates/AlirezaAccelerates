@@ -33,7 +33,7 @@ A little more about me...
 
 
 ```javascript
-var Alireza = { // I am a variable rather than a constant.
+var alireza = { // I am a variable rather than a constant.
     pronouns: "he" | "him",
     motto: "The Programmers of Tomorrow are the Wizards of the Future.",
     websiteUrl: "https://alirezaaccelerates.github.io/",
