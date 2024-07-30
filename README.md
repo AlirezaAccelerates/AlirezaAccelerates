@@ -56,7 +56,8 @@ var Alireza = { // I am a variable rather than a constant.
 
 ![Followers](https://img.shields.io/github/followers/AlirezaAccelerates?style=social)
 ![Stars](https://img.shields.io/github/stars/AlirezaAccelerates?style=social)
-![Repos](https://img.shields.io/github/repo-count/AlirezaAccelerates?style=social)
+![Repos](https://img.shields.io/badge/dynamic/json?color=informational&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlirezaAccelerates)
+
 
 <div align="center">
 
