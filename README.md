@@ -63,12 +63,5 @@ var Alireza = { // I am a variable rather than a constant.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlirezaAccelerates&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAccelerates&layout=compact)
-
 </div>
 
-
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AlirezaRafiei9&theme=dark" width="700"></img>
-
-</div>
