@@ -60,7 +60,8 @@ var Alireza = { // I am a variable rather than a constant.
 
 <div align="center">
 
-![Github Metrics Classic](https://metrics.lecoq.io/AlirezaAccelerates?template=classic)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlirezaAccelerates&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+
 </div>
 
 
