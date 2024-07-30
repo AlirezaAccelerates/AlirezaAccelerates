@@ -41,8 +41,8 @@ var Alireza = { // I am a variable rather than a constant.
     askMeAbout: ["ML", "Tech", "Digital Health"],
     technologies: {
         DL: [],
-        AI_for_healthcare: [],
-        database: "MySQL"
+        AIForHealthcare: [],
+        database: "MySQL, PostgreSQL"
     }
 }
 ```
@@ -56,12 +56,11 @@ var Alireza = { // I am a variable rather than a constant.
 
 ![Followers](https://img.shields.io/github/followers/AlirezaAccelerates?style=social)
 ![Stars](https://img.shields.io/github/stars/AlirezaAccelerates?style=social)
-![Repos](https://badges.pufler.dev/repos/AlirezaAccelerates)
+![Repos](https://img.shields.io/github/repo-count/AlirezaAccelerates?style=social)
 
 <div align="center">
 
 ![Github Metrics Classic](https://metrics.lecoq.io/AlirezaAccelerates?template=classic)
-
 </div>
 
 
